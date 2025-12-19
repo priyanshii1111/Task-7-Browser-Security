@@ -23,8 +23,8 @@ The objective of this task is to learn how to review browser extensions, identif
      - **McAfee** – Official security extension, required permissions appropriate, kept.  
 
 4. Took screenshots:
-   - Screenshot showing all installed extensions before review (`Extensions_Before_SS.png`)  
-   - Screenshot showing permissions/details of extensions (`Extension_Details_SS.png`)  
+   - Screenshot showing all installed extensions before review
+   - Screenshot showing permissions/details of extensions
 
 5. Restarted the browser to confirm smooth performance.  
 
